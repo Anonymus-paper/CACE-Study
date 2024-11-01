@@ -1,6 +1,6 @@
 ---
 title: "Sensitivity Analyses"
-author: "Theodosios Papazoglou"
+author: "Anonymus"
 date: "2024-08-02"
 output: pdf_document
 ---
@@ -9,7 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This document contains the sensitivity simulation analyses employed during the MSc Research Project at the Department of Mathematics of Imperial College of London titled "Estimating the Complier Average Causal Effect in Randomised Controlled Trials with Non-Compliance: A Comparative Simulation Analysis of the Instrumental Variables and Per Protocol Methods" from MSc student Theodosios (Theo) Papazoglou. 
+This document contains the sensitivity simulation analyses employed during project titled "Estimating the Complier Average Causal Effect in Randomised Controlled Trials with Non-Compliance: A Comparative Simulation Analysis of the Instrumental Variables and Per Protocol Methods". To replicate use the code as below with the corresponding seeds. 
 
 
 First we load the libraries used throughout the simulations.
